@@ -8,8 +8,8 @@
 
 import UIKit
 
-let XGAppId = “YOUR_APP_ID”
-let XGAppKey = "YOUR_APP_KEY”
+let XGAppId = "YOUR_APP_ID"
+let XGAppKey = "YOUR_APP_KEY"
 
 let XGGlobalTintColor = UIColor(red:0.1, green:0.52, blue:0.91, alpha:1)
 
